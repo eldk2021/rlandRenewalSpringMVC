@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>시작!</h1>
+<h2>${data}</h2>
 </body>
 </html>
