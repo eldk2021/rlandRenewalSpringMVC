@@ -1,4 +1,3 @@
-/rlandRenewalWeb/
 
 # Compiled class file
 *.class
@@ -37,4 +36,4 @@ local.properties
 CommonProperties.*
 
 ## Mac
-.DS_STORE
+.DS_Store
